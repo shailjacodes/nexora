@@ -99,3 +99,6 @@ npx --yes tsx --test src/utils/validation.test.ts src/utils/date.test.ts src/uti
 Developed for the **Responsive Event Management Website** assignment.  
 Institution: **KIIT Deemed to be University, Bhubaneswar**  
 Website Name: **Nexora**
+
+## Author
+Shailja Khemani
