@@ -1,0 +1,6 @@
+{
+  "name": "Nexora - KIIT University Event Management Platform",
+  "description": "Responsive event management and ticketing platform for KIIT University, Bhubaneswar. Explore campus fests, conferences, and cricket tournaments, sign in with student credentials, and register with UPI & smart card payment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
